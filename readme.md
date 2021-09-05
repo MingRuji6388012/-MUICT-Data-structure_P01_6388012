@@ -1,9 +1,8 @@
 
-##Data Structure and Algorithm analysis: Project 01, 6388012
+## Data Structure and Algorithm analysis: Project 01, 6388012
+### My Project Report: [is here](https://www.canva.com/design/DAEpH23GGTc/0U7g63zet1gH7u-DJel8Bg/view?utm_content=DAEpH23GGTc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
-**Project Report:** https://www.canva.com/design/DAEpH23GGTc/0U7g63zet1gH7u-DJel8Bg/view?utm_content=DAEpH23GGTc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
-
-###TO-DO
+### TO-DO
 1) Go to `SortVisualiser.java`
 2) Run the program
 3) Panel (sorting visualizer window) will automatically appear
@@ -18,10 +17,13 @@
           6 - To visualize algorithms which you added respectively
           7 - To end the program
 5) To visualize the algorithm you customize, press 6 to perform, then go to Panel to watch your result!
-   
+---   
+**My 3 runtimes**
+- O(N<sup>2</sup>)
+- O(N log N)
+- O(N)
 
+### This project is modified from [this link](https://github.com/Hopson97/Sort-Algorithm-Visualiser/)
+---
 
-===============================================================================================
-
-- This code is modified from https://github.com/Hopson97/Sort-Algorithm-Visualiser/
 
